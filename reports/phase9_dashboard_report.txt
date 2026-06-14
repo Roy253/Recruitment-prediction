@@ -1,0 +1,28 @@
+PHASE 9 - DASHBOARD DATASET
+
+Objective:
+Prepare a dashboard-ready dataset for Looker Studio.
+
+Dataset Created:
+dashboard_data.csv
+
+Fields Included:
+- Resume ID
+- Candidate Name
+- Job Role
+- Education
+- Recruiter Decision
+- Predicted Decision
+- PM Fit Score
+- Candidate Rank
+- PM Skill Count
+- Experience Score
+- Candidate Category
+
+Categories:
+1. High Potential (75+)
+2. Medium Potential (50-74)
+3. Low Potential (<50)
+
+Result:
+Dataset ready for Google Sheets and Looker Studio.

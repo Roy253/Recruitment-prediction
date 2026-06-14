@@ -1,0 +1,24 @@
+PHASE 8 - CANDIDATE RANKING
+
+Objective:
+Rank candidates based on Product Management suitability.
+
+Features Used:
+- PM Skill Count
+- Experience Score
+- SQL Flag
+- Analytics Flag
+- Agile Flag
+- Jira Flag
+- Certification Flag
+
+Outputs:
+1. Candidate Rank
+2. PM Fit Score
+3. Predicted Decision
+
+Generated File:
+candidate_ranking.csv
+
+Result:
+Candidates ranked from highest to lowest suitability.

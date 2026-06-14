@@ -1,0 +1,25 @@
+PHASE 7 - MODEL EVALUATION
+
+Objective:
+Evaluate machine learning model performance.
+
+Metrics Generated:
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+
+Visualizations:
+1. Confusion Matrix
+2. Feature Importance Chart
+
+Output Files:
+- confusion_matrix.png
+- feature_importance.png
+- model_metrics.csv
+
+Insights:
+Identify the most important factors influencing recruitment decisions and measure model effectiveness.
+
+Result:
+Model validated and ready for candidate ranking.

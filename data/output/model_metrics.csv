@@ -1,0 +1,5 @@
+Metric,Value
+Accuracy,0.855
+Precision,0.8475
+Recall,0.855
+F1 Score,0.8477

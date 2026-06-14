@@ -1,0 +1,20 @@
+PHASE 2 - DATA CLEANING REPORT
+
+Objective:
+Prepare raw recruitment data for analysis and machine learning.
+
+Tasks Performed:
+1. Dataset loaded successfully
+2. Missing values identified
+3. Duplicate rows removed
+4. Column names standardized
+5. Text columns cleaned
+6. Numeric missing values filled using median
+7. Text missing values filled using "Unknown"
+
+Output Files Generated:
+1. cleaned_data.csv
+2. data_quality_report.csv
+
+Result:
+Dataset is now ready for Exploratory Data Analysis (EDA).

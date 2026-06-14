@@ -1,0 +1,25 @@
+PHASE 6 - MACHINE LEARNING MODEL TRAINING
+
+Objective:
+Predict recruiter hiring decisions using candidate features.
+
+Features Used:
+1. PM Skill Count
+2. SQL Flag
+3. Analytics Flag
+4. Agile Flag
+5. Jira Flag
+6. Certification Flag
+7. Experience Score
+
+Models Trained:
+1. Logistic Regression
+2. Random Forest
+
+Output Files:
+- logistic_regression_model.pkl
+- random_forest_model.pkl
+- label_encoder.pkl
+
+Result:
+Best performing model selected for evaluation.

@@ -1,0 +1,32 @@
+PHASE 3 - EXPLORATORY DATA ANALYSIS
+
+Objective:
+Understand recruitment trends and candidate characteristics.
+
+Visualizations Generated:
+
+1. Hiring Distribution
+   - Shows selected vs rejected candidates
+
+2. Experience Distribution
+   - Shows candidate experience spread
+
+3. Correlation Heatmap
+   - Shows relationships among numeric variables
+
+4. Skills WordCloud
+   - Shows most frequent skills
+
+Key Questions Answered:
+
+- How many candidates were selected?
+- What skills appear most frequently?
+- How does experience vary among candidates?
+- Which variables appear correlated?
+
+Output Files:
+
+visuals/hiring_distribution.png
+visuals/experience_distribution.png
+visuals/correlation_heatmap.png
+visuals/top_skills_wordcloud.png

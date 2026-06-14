@@ -1,0 +1,20 @@
+PHASE 4 - FEATURE ENGINEERING
+
+Objective:
+Create Product Management specific features for machine learning.
+
+Features Created:
+
+1. PM Skill Count
+2. SQL Flag
+3. Analytics Flag
+4. Agile Flag
+5. Jira Flag
+6. Certification Flag
+7. Experience Score
+
+Output File:
+data/processed/feature_data.csv
+
+Result:
+Dataset ready for SQLite integration and Machine Learning.

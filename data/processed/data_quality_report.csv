@@ -1,0 +1,12 @@
+Column,Missing Values,Data Type
+Resume_ID,0,int64
+Name,0,str
+Skills,0,str
+Experience (Years),0,int64
+Education,0,str
+Certifications,274,str
+Job Role,0,str
+Recruiter Decision,0,str
+Salary Expectation ($),0,int64
+Projects Count,0,int64
+AI Score (0-100),0,int64
